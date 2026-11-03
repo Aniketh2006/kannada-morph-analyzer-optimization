@@ -1,0 +1,25 @@
+environment,experiment,method,n_runs,mean_ms,median_ms,sd_ms,cv_pct,ci95_low,ci95_high,min_ms,max_ms,speedup_of_means,speedup_of_medians,speedup_ci95
+linux_ubuntu_performance,person1_regex,Original_Regex,5,140.475,133.481,13.817,9.8,123.321,157.628,131.332,164.12,1.000,1.000,
+linux_ubuntu_performance,person1_regex,Optimized_NoRegex,5,122.487,123.008,2.244,1.8,119.701,125.273,118.764,124.307,1.147,1.085,1.08-1.25
+linux_ubuntu_performance,person2_bsearch,Normal_Hash,5,124.119,122.981,3.561,2.9,119.698,128.539,119.879,128.517,1.000,1.000,
+linux_ubuntu_performance,person2_bsearch,Binary_Search,5,49.192,49.396,1.198,2.4,47.705,50.68,47.311,50.518,2.523,2.490,2.45-2.60
+linux_ubuntu_performance,mce,Normal Hash,10,62.975,62.687,0.975,1.5,62.278,63.673,61.787,64.342,1.000,1.000,
+linux_ubuntu_performance,mce,Storable Binary Cache,10,15.64,16.079,1.433,9.2,14.615,16.665,12.957,17.626,4.026,3.899,3.83-4.27
+linux_ubuntu_performance,mce,Sorted + Binary Search,10,11.242,11.197,0.702,6.2,10.739,11.744,10.463,12.535,5.602,5.599,5.39-5.81
+linux_ubuntu_performance,mce,MCE (4 workers),10,145.789,145.618,3.045,2.1,143.611,147.967,141.527,151.065,0.432,0.430,0.43-0.44
+windows_balanced,person1_regex,Original_Regex,5,864.554,813.161,225.99,26.1,583.996,1145.112,610.608,1169.25,1.000,1.000,
+windows_balanced,person1_regex,Optimized_NoRegex,5,804.305,794.0,171.581,21.3,591.294,1017.316,598.29,981.888,1.075,1.024,0.82-1.40
+windows_balanced,person2_bsearch,Normal_Hash,5,935.703,943.13,43.288,4.6,881.963,989.444,862.095,975.393,1.000,1.000,
+windows_balanced,person2_bsearch,Binary_Search,5,209.64,198.593,30.521,14.6,171.749,247.53,187.444,263.243,4.463,4.749,3.94-4.93
+windows_balanced,mce,Normal Hash,10,498.527,495.695,12.837,2.6,489.344,507.71,485.284,531.081,1.000,1.000,
+windows_balanced,mce,Storable Binary Cache,10,35.078,32.952,4.736,13.5,31.69,38.466,32.195,46.871,14.212,15.043,13.04-15.21
+windows_balanced,mce,Sorted + Binary Search,10,51.539,47.612,11.805,22.9,43.095,59.983,40.378,77.736,9.673,10.411,8.46-11.04
+windows_balanced,mce,MCE (4 workers),10,601.629,539.566,142.606,23.7,499.621,703.636,519.202,951.099,0.829,0.919,0.72-0.93
+windows_high_performance,person1_regex,Original_Regex,5,529.099,426.951,163.845,31.0,325.69,732.507,406.896,780.911,1.000,1.000,
+windows_high_performance,person1_regex,Optimized_NoRegex,5,418.294,350.151,152.388,36.4,229.11,607.478,346.109,690.789,1.265,1.219,0.86-1.81
+windows_high_performance,person2_bsearch,Normal_Hash,5,382.592,376.057,19.372,5.1,358.543,406.642,360.546,409.201,1.000,1.000,
+windows_high_performance,person2_bsearch,Binary_Search,5,103.137,101.958,9.47,9.2,91.38,114.894,94.316,119.101,3.710,3.688,3.40-4.00
+windows_high_performance,mce,Normal Hash,10,255.983,250.907,13.734,5.4,246.159,265.807,240.379,282.73,1.000,1.000,
+windows_high_performance,mce,Storable Binary Cache,10,25.45,24.616,2.993,11.8,23.309,27.591,22.206,32.619,10.058,10.193,9.30-10.79
+windows_high_performance,mce,Sorted + Binary Search,10,30.483,29.078,4.042,13.3,27.592,33.375,27.664,40.776,8.398,8.629,7.68-9.05
+windows_high_performance,mce,MCE (4 workers),10,552.547,544.142,39.437,7.1,524.338,580.757,518.632,652.849,0.463,0.461,0.44-0.49

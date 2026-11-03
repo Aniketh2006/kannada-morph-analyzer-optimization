@@ -1,0 +1,18 @@
+timestamp        : 2026-10-23T17:05:28+05:30
+hostname         : siddharth-prabhu
+os               : Ubuntu 24.04.4 LTS
+kernel           : 7.0.0-38-generic
+cpu model        : 12th Gen Intel(R) Core(TM) i5-1235U
+cpu threads      : 12   (sockets/cores: 10 1 )
+cpu governor     : performance
+cpu freq (MHz)   : 2438 545 3565 969 2675 3018 400 635 3302 3299 3299 3300 
+memory           : 7.4Gi total, 4.1Gi available
+storage          : loop0                         31M;loop1                       30.3M;loop2                          4K;
+power source     : AC connected
+load average     : 0.85 1.98 1.38
+perl             : v5.38.2  (/usr/bin/perl)
+perl archname    : x86_64-linux-gnu-thread-multi  threads=define
+MCE version      : 1.889
+Storable version : 3.32
+dict_all.txt     : 1fb8c6a966fa7305 (CR stripped)
+words file       : f415b7a4d25cf7a5 (CR stripped)

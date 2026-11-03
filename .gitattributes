@@ -1,0 +1,11 @@
+* text=auto
+*.pl   text eol=lf
+*.pm   text eol=lf
+*.txt  text eol=lf
+*.csv  text eol=lf
+*.md   text eol=lf
+*.sh   text eol=lf
+*.ps1  text eol=crlf
+*.pdf  binary
+*.png  binary
+*.docx binary

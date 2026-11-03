@@ -1,0 +1,200 @@
+arikurkuni
+arikurkuni(N2)
+leVkkapariSoXakaru
+leVkkapariSoXakaru(N34)|leVkkapariSoXaka(N16)+aru(PL)
+ucCvasana
+ucCvasana(N1)
+jAruvikeV
+jAruvikeV(N4)|jAruvikeV(N4)
+anuka
+anuka(N16)
+KelYa
+KelYa(N1)
+sugama
+sugama(N1)|sugama(ADJ)|sugama(ADV)
+jAlagArwi
+jAlagArwi(N11)
+kIlYaka
+kIlYaka(N1)
+nirviGna
+nirviGna(N1)|nirviGna(ADJ)|nirviGna(ADV)
+miMcu vAhaka
+miMcu vAhaka(N1)
+wrixoRa saMBavAmaya
+wrixoRa saMBavAmaya(N1)
+siwageV
+siwageV(N4)
+keVdeVnudi
+keVdeVnudi(N2)
+uBayaloka
+uBayaloka(N1)
+gulPasaMXi
+gulPasaMXi(N2)
+koVkenu
+koVkenu(N8)
+diE
+diE(N5)
+aNeVpa
+aNeVpa(N1)
+niduSiKi
+niduSiKi(N11)
+aGapadu
+aGapadu(V22)
+SrIkaMTacApa
+SrIkaMTacApa(N1)
+heVkkalYikeV
+heVkkalYikeV(N4)
+koVkkarikeV
+koVkkarikeV(N4)
+ahIMxraloka
+ahIMxraloka(N1)
+hrAsa
+hrAsa(N1)
+Bramiwa
+Bramiwa(N1)
+puwri
+puwri(N2)|puwri(N11)
+alarvaseV
+alarvaseV(N4)
+vicaraNeVya viSleRaNeV
+vicaraNeVya viSleRaNeV(N4)
+aSrIka
+aSrIka(N1)|aSrIka(ADJ)
+ekaka mAwqkeV
+ekaka mAwqkeV(N4)
+besarisaleVxurilla
+besarisaleVxurilla(N1)
+anukarisu
+anukarisu(V27)
+naMwaraxa
+naMwaraxa(NST)
+UXrvaloka
+UXrvaloka(N1)
+eVlaru
+eVlaru(N8)
+AlYawi
+AlYawi(N2)
+baxali
+baxali(N2)|baxali(ADV)|baxali(AVY)
+aMgala
+aMgala(N1)
+jeVMtiyan vEleVt
+jeVMtiyan vEleVt(N21)
+upvAra
+upvAra(N1)
+kAbi
+kAbi(N2)|kAbi(N37)
+eVllAxarU
+eVllAxarU(PN)
+jaMJUnilYa
+jaMJUnilYa(N1)
+nIca
+nIca(N16)|nIca(ADJ)|nIca(ADV)
+adeVlYeV
+adeVlYeV(N4)
+ciwraMbareV
+ciwraMbareV(N14)
+EvawwExu
+EvawwExu(ADJ)|EvawwExu(NUM)
+pUsA
+pUsA(N20)
+SucyaMbaka
+SucyaMbaka(N1)
+barI
+barI(AVY)
+svapnajagawwu
+svapnajagawwu(N8)
+keVyyeVwwu
+keVyyeVwwu(V24)
+sameVsu
+sameVsu(V27)
+ullAlYa
+ullAlYa(N1)
+sallakRaNa
+sallakRaNa(N1)|sallakRaNa(ADJ)|sallakRaNa(ADV)
+vEjayaMwi
+vEjayaMwi(N11)
+wAtagiwwi
+wAtagiwwi(N11)
+nOkAyAna
+nOkAyAna(N1)
+mAnavajanma
+mAnavajanma(N1)
+Awapayoga
+Awapayoga(N1)
+mukwaxvAra
+mukwaxvAra(N1)
+kaMwucApa
+kaMwucApa(N16)
+moVlYakeVbarisu
+moVlYakeVbarisu(V27)
+bakkata
+bakkata(N1)
+uluk
+uluk(N21)
+bayovest
+bayovest(N21)
+awwagadi
+awwagadi(N2)
+pAlijIn
+pAlijIn(N21)
+paMkilaweV
+paMkilaweV(N4)|paMkilaweV(ADJ)
+woVttikku
+woVttikku(V24)
+kAMwa ekaXruva
+kAMwa ekaXruva(N1)
+sawvabAXeV
+sawvabAXeV(N4)
+namaskAra heVjjeV
+namaskAra heVjjeV(N4)
+wAlYamaxxalYeV
+wAlYamaxxalYeV(N4)
+vijayowsava
+vijayowsava(N1)
+nUweV
+nUweV(N4)
+hayacara
+hayacara(N1)
+nANigeV
+nANigeV(N4)
+xviviBajaneV
+xviviBajaneV(N4)|xviviBajaneV(N4)
+huNaseVhaNNu
+huNaseVhaNNu(N8)|huNaseVhaNNu(N8)
+nIrAjanaMgeVyyu
+nIrAjanaMgeVyyu(V13)
+KaMdiwavAgiyU
+KaMdiwavAgiyU(ADV)
+ciwworA
+ciwworA(N20)
+xIXiwi
+xIXiwi(N2)
+xyuwi anuvarwaneV
+xyuwi anuvarwaneV(N4)|xyuwi anuvarwaneV(N4)
+hallugiMju
+hallugiMju(N8)|hallugiMju(ADJ)|hallugiMju(ADV)
+jaTarASma
+jaTarASma(N1)
+gorilla
+gorilla(N1)
+nara vahana parIkReV
+nara vahana parIkReV(N4)
+AMSika avakalana
+AMSika avakalana(N16)
+mUgucAcu
+mUgucAcu(ADJ)|mUgucAcu(ADV)
+AKyeya
+AKyeya(N16)
+AjIlu
+AjIlu(N8)
+ekawAri melYa
+ekawAri melYa(N1)
+vikqwa xravya
+vikqwa xravya(N1)
+wAwvika
+wAwvika(ADJ)
+woVpAwi hakki
+woVpAwi hakki(N2)
+iwApara
+iwApara(N1)

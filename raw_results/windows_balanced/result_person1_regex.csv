@@ -1,0 +1,3 @@
+Method,Run1,Run2,Run3,Run4,Run5,Average_ms
+Original_Regex,1013.731,1169.250,610.608,716.021,813.161,864.554
+Optimized_NoRegex,970.175,981.888,598.290,677.172,794.000,804.305

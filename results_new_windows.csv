@@ -1,0 +1,23 @@
+experiment,condition,method,size,n,mean_ms,median_ms,sd_ms,cv_pct,ci95_low,ci95_high,ratio,ratio_ci95,note
+endtoend,quiet,original,100 words,30,18722.608,18343.077,2184.352,11.7,17907.049,19538.167,1,,baseline
+endtoend,quiet,optimized,100 words,30,1022.713,1002.949,85.868,8.4,990.653,1054.773,18.307,17.59-19.01,"order-effect: orig-first 18.66, opt-first 17.95"
+endtoend,shipped,original,100 words,30,19235.486,18586.132,2318.631,12.1,18369.792,20101.18,1,,baseline
+endtoend,shipped,optimized,100 words,30,1142.806,1035.237,220.036,19.3,1060.652,1224.96,16.832,15.68-17.96,"order-effect: orig-first 16.35, opt-first 17.33"
+lookup_isolated,,hash,100 queries,10,0.0078,0.0045,0.0085,109.1,0.0017,0.0139,1,,78 ns/query
+lookup_isolated,,binary,100 queries,10,0.3229,0.3055,0.0494,15.3,0.2875,0.3583,41.40,26.8-71.2,3229 ns/query
+lookup_isolated,,hash,10000 queries,10,1.6316,1.8325,0.7689,47.1,1.0816,2.1816,1,,163 ns/query
+lookup_isolated,,binary,10000 queries,10,32.7057,32.573,1.0283,3.1,31.9702,33.4412,20.05,15.8-27.5,3271 ns/query
+lookup_isolated,,hash,1000000 queries,5,110.2848,98.055,26.0655,23.6,77.9255,142.6441,1,,110 ns/query
+lookup_isolated,,binary,1000000 queries,5,3937.532,4116.55,674.1563,17.1,3100.5906,4774.4734,35.70,32.9-41.2,3938 ns/query
+parallel_analyzer,,1 process(es),100 words,10,897.07,893.292,12.382,1.4,888.213,905.927,1.000,,efficiency 100%
+parallel_analyzer,,2 process(es),100 words,10,808.647,808.727,10.089,1.2,801.43,815.863,1.109,1.10-1.12,efficiency 55%
+parallel_analyzer,,4 process(es),100 words,10,1217.245,1244.395,83.319,6.8,1157.647,1276.843,0.737,0.71-0.77,efficiency 18%
+parallel_analyzer,,8 process(es),100 words,10,1677.78,1648.438,76.114,4.5,1623.335,1732.225,0.535,0.52-0.55,efficiency 7%
+parallel_analyzer,,1 process(es),1000 words,10,5067.779,4853.515,621.218,12.3,4623.418,5512.141,1.000,,efficiency 100%
+parallel_analyzer,,2 process(es),1000 words,10,3492.565,3482.006,93.541,2.7,3425.654,3559.475,1.451,1.37-1.57,efficiency 73%
+parallel_analyzer,,4 process(es),1000 words,10,3274.441,3289.334,67.773,2.1,3225.962,3322.92,1.548,1.47-1.68,efficiency 39%
+parallel_analyzer,,8 process(es),1000 words,10,3281.135,3272.625,88.601,2.7,3217.759,3344.512,1.545,1.46-1.68,efficiency 19%
+parallel_analyzer,,1 process(es),5000 words,10,24705.942,22822.031,3718.866,15.1,22045.81,27366.074,1.000,,efficiency 100%
+parallel_analyzer,,2 process(es),5000 words,10,13115.812,13113.092,464.73,3.5,12783.388,13448.237,1.884,1.72-2.06,efficiency 94%
+parallel_analyzer,,4 process(es),5000 words,10,10805.366,10778.267,169.549,1.6,10684.087,10926.646,2.286,2.10-2.50,efficiency 57%
+parallel_analyzer,,8 process(es),5000 words,10,8808.628,8886.28,164.406,1.9,8691.028,8926.229,2.805,2.57-3.07,efficiency 35%

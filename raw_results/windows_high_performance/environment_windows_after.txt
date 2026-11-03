@@ -1,0 +1,14 @@
+timestamp        : 2026-11-01T10:25:33.1938454+05:30
+device           : HP HP ProBook 450 15.6 inch G9 Notebook PC
+os               : Microsoft Windows 10 Pro 10.0.19045 build 19045
+cpu model        : 12th Gen Intel(R) Core(TM) i5-1235U
+cores / threads  : 10 / 12   max MHz: 1300
+memory           : 7.64 GB
+power plan       : 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (High performance)
+power source     : AC connected
+defender realtime: DisableRealtimeMonitoring = False
+perl             : v5.42.2
+perl archname    : MSWin32-x64-multi-thread
+MCE version      : 1.904
+dict_all.txt     : 00ec0175243f07fe (CR stripped)
+words file       : f415b7a4d25cf7a5 (CR stripped)

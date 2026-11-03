@@ -1,0 +1,3 @@
+Method,Run1,Run2,Run3,Run4,Run5,Average_ms
+Normal_Hash,122.198,119.879,127.018,122.981,128.517,124.119
+Binary_Search,49.781,48.955,49.396,47.311,50.518,49.192

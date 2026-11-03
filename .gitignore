@@ -1,0 +1,13 @@
+# generated caches and temp files - never commit
+*.bin
+dict_sorted*.txt
+dict_cache*
+*.tmp
+analyzer_stderr.tmp
+original_errors.txt
+optimized_errors.txt
+# stale results from earlier, different scripts
+old_speed_results.csv
+speed_results.csv
+FINAL_COMBINED_RESULTS.csv
+.venv/
